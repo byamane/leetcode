@@ -3,14 +3,17 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-    const arr = Array.from(String(x), Number)
-    const length = arr.length
+    // Negative numbers are not palindromes
+    if (x < 0 || (x % 10 === 0 && x !== 0)) return false
 
-    for (let i=0; i < length; i++){
-        let start = arr[i]
-        let end = arr[length - 1 - i]
+    let reversed = 0
+    let original = x
 
-        if (start !== end) return false
+    while (original > reversed) {
+        reversed = reversed * 10 + original % 10
+        original = Math.floor(original / 10)
     }
-    return true
+
+    // A palindrome must be either exactly equal (odd length) or equal when ignoring the middle digit (even length)
+    return original === reversed || original === Math.floor(reversed / 10)
 };
