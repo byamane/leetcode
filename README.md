@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/byamane/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/byamane/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/byamane/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
