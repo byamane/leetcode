@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/byamane/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byamane/leetcode-practice/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/byamane/leetcode-practice/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/byamane/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byamane/leetcode-practice/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/byamane/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/byamane/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/byamane/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byamane/leetcode-practice/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/byamane/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 ## Database
