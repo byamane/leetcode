@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/byamane/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/byamane/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/byamane/leetcode-practice/tree/master/0724-find-pivot-index) |
+| [0940-fruit-into-baskets](https://github.com/byamane/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/byamane/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/byamane/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1391-counting-elements](https://github.com/byamane/leetcode/tree/master/1391-counting-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/byamane/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/byamane/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/byamane/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/byamane/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/byamane/leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/byamane/leetcode-practice/tree/master/2211-k-radius-subarray-averages) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/byamane/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/byamane/leetcode/tree/master/0268-missing-number) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0940-fruit-into-baskets](https://github.com/byamane/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1391-counting-elements](https://github.com/byamane/leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/byamane/leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Database
