@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/byamane/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/byamane/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/byamane/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/byamane/leetcode-practice/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/byamane/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/byamane/leetcode-practice/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/byamane/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/byamane/leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/byamane/leetcode-practice/tree/master/0953-reverse-only-letters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/byamane/leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/byamane/leetcode-practice/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/byamane/leetcode-practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
