@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/byamane/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/byamane/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/byamane/leetcode/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/byamane/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/byamane/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/byamane/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/byamane/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/byamane/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/byamane/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/byamane/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/byamane/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/byamane/leetcode-practice/tree/master/0724-find-pivot-index) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/byamane/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/byamane/leetcode/tree/master/0268-missing-number) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0525-contiguous-array](https://github.com/byamane/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/byamane/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/byamane/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1098-largest-unique-number](https://github.com/byamane/leetcode-practice/tree/master/1098-largest-unique-number) |
