@@ -7,7 +7,6 @@ var flat = function (arr, n) {
     let flattened = []
     
     const flatten = (nums, level) => {
-
         for (const num of nums) {
             if (Array.isArray(num) && level > 0) {
                 flatten(num, level - 1)
@@ -16,7 +15,6 @@ var flat = function (arr, n) {
                 flattened.push(num)
             }
         }
-        
     }
     
     flatten(arr, n)
