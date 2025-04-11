@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/byamane/leetcode-practice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/byamane/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [2211-k-radius-subarray-averages](https://github.com/byamane/leetcode-practice/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/byamane/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/byamane/leetcode-practice/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/byamane/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/byamane/leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/byamane/leetcode-practice/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/byamane/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/byamane/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/byamane/leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/byamane/leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/byamane/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Database
 |  |
 | ------- |
