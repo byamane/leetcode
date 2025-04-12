@@ -3,7 +3,7 @@
  * @return {number}
  */
 var maximumSum = function(nums) {
-    // Time complexity: O(n + m)
+    // Time complexity: O(n * m)
     // Space complexity: O(n)
 
     let hash = new Map()
