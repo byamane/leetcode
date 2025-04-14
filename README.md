@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/byamane/leetcode-practice/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/byamane/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/byamane/leetcode-practice/tree/master/2358-number-of-ways-to-split-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/byamane/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/byamane/leetcode-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-counting-elements](https://github.com/byamane/leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/byamane/leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/byamane/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2428-equal-row-and-column-pairs](https://github.com/byamane/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/byamane/leetcode-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Database
 |  |
@@ -163,8 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/byamane/leetcode-practice/tree/master/0412-fizz-buzz) |
+| [2428-equal-row-and-column-pairs](https://github.com/byamane/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/byamane/leetcode-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/byamane/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
