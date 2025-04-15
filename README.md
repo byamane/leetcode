@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/byamane/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/byamane/leetcode-practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/byamane/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/byamane/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/byamane/leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/byamane/leetcode-practice/tree/master/0953-reverse-only-letters) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/byamane/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/byamane/leetcode/tree/master/0268-missing-number) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byamane/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0383-ransom-note](https://github.com/byamane/leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/byamane/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/byamane/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/byamane/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/byamane/leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/byamane/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/byamane/leetcode-practice/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Simulation
