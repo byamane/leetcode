@@ -4,23 +4,29 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-    let hash1 = new Map()
-    let hash2 = new Map()
+    // Time complexity: O(n + m)
+    // Space complexity: O(n + m)
 
+    if (ransomNote.length > magazine.length) return false
+
+    let ransomHash = new Map()
+    let magazineHash = new Map()
+
+    // Iterate through ransomNote string to set ransomHash
     for (let i=0; i < ransomNote.length; i++) {
-        hash1.set(ransomNote[i], (hash1.get(ransomNote[i]) || 0) + 1)
+        ransomHash.set(ransomNote[i], (ransomHash.get(ransomNote[i]) || 0) + 1)
     }
 
+    // Iterate through magazine string to set magazineHash
     for (let i=0; i < magazine.length; i++){
-        hash2.set(magazine[i], (hash2.get(magazine[i]) || 0) + 1)
+        magazineHash.set(magazine[i], (magazineHash.get(magazine[i]) || 0) + 1)
     }
 
-    // console.log(hash1)
-    // console.log(hash2)
-
-    for (const [key, value] of hash1) {
-        console.log(hash2.get(key))
-        if (value > hash2.get(key) || (value && hash2.get(key) === undefined)) return false
+    // Return false:
+        // If magazine hash map doesn't contain a value for the key --- "undefined"
+        // Or if the value in ransom hash map for said key is greater than the value in magazine hash map
+    for (const [key, value] of ransomHash) {
+        if (magazineHash.get(key) === undefined || value > magazineHash.get(key)) return false
     }
 
     return true
