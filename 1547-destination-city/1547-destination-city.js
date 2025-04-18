@@ -3,7 +3,7 @@
  * @return {string}
  */
 var destCity = function(paths) {
-    // Time complexity: O(n + m) --> paths.length + ends.length
+    // Time complexity: O(n + n) --> paths.length + ends.length -> O(n)
     // Space complexity: O(2n) --> O(n)
 
     let starts = new Map()
