@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/byamane/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/byamane/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/byamane/leetcode/tree/master/0268-missing-number) |
+| [0807-custom-sort-string](https://github.com/byamane/leetcode-practice/tree/master/0807-custom-sort-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/byamane/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/byamane/leetcode-practice/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/byamane/leetcode-practice/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/byamane/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/byamane/leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/byamane/leetcode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/byamane/leetcode-practice/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/byamane/leetcode-practice/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/byamane/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/byamane/leetcode/tree/master/1547-destination-city) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/byamane/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/byamane/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/byamane/leetcode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/byamane/leetcode-practice/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/byamane/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1098-largest-unique-number](https://github.com/byamane/leetcode-practice/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/byamane/leetcode/tree/master/1297-maximum-number-of-balloons) |
