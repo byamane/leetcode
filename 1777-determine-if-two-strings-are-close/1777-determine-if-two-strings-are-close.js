@@ -4,6 +4,8 @@
  * @return {boolean}
  */
 var closeStrings = function(word1, word2) {
+    // Time complexity: O(n)
+    // Space complexity: O(1)
 
     if (word1.length !== word2.length) return false
 
