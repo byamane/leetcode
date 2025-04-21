@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/byamane/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/byamane/leetcode-practice/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/byamane/leetcode-practice/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byamane/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/byamane/leetcode-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/byamane/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/byamane/leetcode/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/byamane/leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byamane/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/byamane/leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/byamane/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/byamane/leetcode/tree/master/1391-counting-elements) |
 | [1547-destination-city](https://github.com/byamane/leetcode/tree/master/1547-destination-city) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byamane/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/byamane/leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/byamane/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2428-equal-row-and-column-pairs](https://github.com/byamane/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/byamane/leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/byamane/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/byamane/leetcode-practice/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1777-determine-if-two-strings-are-close](https://github.com/byamane/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
 |  |
 | ------- |
