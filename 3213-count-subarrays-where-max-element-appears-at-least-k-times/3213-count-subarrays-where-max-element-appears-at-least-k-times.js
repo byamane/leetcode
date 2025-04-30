@@ -16,11 +16,14 @@ var countSubarrays = function(nums, k) {
     for (let right=0; right < nums.length; right++){
         if (nums[right] === max) curr++
 
+        // Move left bound until curr is less than k
         while (curr === k) {
             if (nums[left] === max) curr--
             left++
         }
-        
+
+        // Since we moved left until the constraint metric was no longer met:
+            // All subarrays left to right prior were valid, thus can add left to get current amount of valid subarrays to answer 
         ans += left
     }
 
