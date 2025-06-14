@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/byamane/leetcode-practice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/byamane/leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/byamane/leetcode/tree/master/0567-permutation-in-string) |
+| [0908-middle-of-the-linked-list](https://github.com/byamane/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/byamane/leetcode-practice/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/byamane/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/byamane/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/byamane/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
