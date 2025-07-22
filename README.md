@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/byamane/leetcode/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/byamane/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/byamane/leetcode-practice/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/byamane/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2211-k-radius-subarray-averages](https://github.com/byamane/leetcode-practice/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/byamane/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2358-number-of-ways-to-split-array](https://github.com/byamane/leetcode-practice/tree/master/2358-number-of-ways-to-split-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/byamane/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/byamane/leetcode-practice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/byamane/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/byamane/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/byamane/leetcode-practice/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
